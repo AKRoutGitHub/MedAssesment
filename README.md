@@ -102,9 +102,4 @@ All results are saved to the `output` directory, including:
   - `modeling/`: Machine learning models
   - `visualization/`: Data visualization scripts
 
-## Setup
-1. Install requirements:
-```pip install -r requirements.txt```
-
-## Usage
-[To be added as project develops]
+## Team Members 
