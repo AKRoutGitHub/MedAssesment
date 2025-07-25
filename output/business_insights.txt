@@ -1,0 +1,29 @@
+===== Hospital Readmission Business Insights =====
+
+Analysis Date: 2025-07-24
+
+Key Insights:
+1. overall_readmission_rate
+2. hospital_insights
+3. doctor_insights
+4. condition_insights
+5. los_insights
+6. age_insights
+7. billing_insights
+8. correlation_insights
+
+===== Model Performance =====
+
+Best Model: random_forest
+ROC AUC: 0.976
+Precision (Class 1): 0.673
+Recall (Class 1): 0.963
+F1 Score (Class 1): 0.793
+
+===== Actionable Recommendations =====
+
+1. Focus on high-risk patients identified by the model for targeted interventions
+2. Implement discharge planning improvements for patients with longer lengths of stay
+3. Review care protocols for medical conditions with highest readmission rates
+4. Provide additional support for elderly patients who show higher readmission risk
+5. Investigate hospitals with above-average readmission rates for process improvements
